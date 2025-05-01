@@ -1,5 +1,5 @@
 {
-  "name": "express-init",
+  "name": "express-js-starter-template",
   "version": "1.0.2",
   "description": "This package allows you to quickly initialize an Express.js application with a pre-defined folder structure.",
   "keywords": [
@@ -29,10 +29,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/express-init.git"
+    "url": "git+https://github.com/vinaypartap-singh/express-js-starter-template.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/express-init/issues"
+    "url": "https://github.com/vinaypartap-singh/express-js-starter-template.git"
   },
-  "homepage": "https://github.com/yourusername/express-init#readme"
+  "homepage": "https://github.com/vinaypartap-singh/express-js-starter-template.git"
 }
