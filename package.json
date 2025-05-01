@@ -1,0 +1,38 @@
+{
+  "name": "express-init",
+  "version": "1.0.2",
+  "description": "This package allows you to quickly initialize an Express.js application with a pre-defined folder structure.",
+  "keywords": [
+    "express",
+    "project",
+    "init",
+    "template",
+    "express-setup"
+  ],
+  "license": "ISC",
+  "author": "Vinaypartap Singh",
+  "main": "./index.js",
+  "type": "module",
+  "bin": {
+    "express-init": "./bin/init.js"
+  },
+  "scripts": {
+    "start": "node bin/init.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.6.0",
+    "zod": "^3.24.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/express-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/express-init/issues"
+  },
+  "homepage": "https://github.com/yourusername/express-init#readme"
+}
