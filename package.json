@@ -1,6 +1,6 @@
 {
   "name": "express-js-starter-template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This package allows you to quickly initialize an Express.js application with a pre-defined folder structure.",
   "keywords": [
     "express",
